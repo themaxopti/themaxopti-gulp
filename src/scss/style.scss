@@ -1,0 +1,21 @@
+@import "fonts";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+@media(max-width:899px) {
+    body {
+        background-color: red;
+    }
+}
+
+
+@media(max-width:899px) {
+    body {}
+}
